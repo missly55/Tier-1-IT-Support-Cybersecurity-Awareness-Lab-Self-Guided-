@@ -30,7 +30,8 @@ Creating a new Virtual machine in Virtualbox:
 Open virtualbox, select **NEW**.
 
 *Ref 1: Creation of virtual machine*
-<img width="450" alt="Virtual-Windows" src="https://github.com/user-attachments/assets/3341916e-7e24-4680-8b46-ff40cbadc935" />
+
+<img width="500" alt="Virtual-Windows" src="https://github.com/user-attachments/assets/3341916e-7e24-4680-8b46-ff40cbadc935" />
 
 
 
