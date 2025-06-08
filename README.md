@@ -7,20 +7,20 @@
 This lab project is designed to simulate the daily tasks of an IT Support Specialist in a real-world environment. It provides hands-on experience with basic troubleshooting, user account management, and software installation using a Windows 10 virtual machine. The goal is to demonstrate core Tier 1 IT support skills in a simple, beginner-friendly way.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+<!--  [Bullet Points - Remove this afterwards]   -->
 
 - Learned how to diagnose and resolve basic network connection issues using tools like ipconfig, ping, and adapter settings
 - Practiced resetting passwords using Command Prompt.
 - Installed common software like Zoom using "Run as Administrator" and verified successful installation.
-- 
   
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+<!-- [Bullet Points - Remove this afterwards]  -->
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Virtualbox - a virtualization tool used to run Windows 10 within a virtual machine on my host computer.
+- Windows 10 ISO - Operating system installed inside the virtual machine to simulate a real desktop environment.
+- Command Prompt - Used for tasks like password resets, network troubleshooting and running administrative commands.
+- Zoom Installer – Used to practice software installation with administrative privileges.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
