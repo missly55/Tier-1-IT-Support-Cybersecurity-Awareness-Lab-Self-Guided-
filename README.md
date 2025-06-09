@@ -36,9 +36,9 @@ Open virtualbox, select **NEW**.
 
 *Ref 2: Windows successfully running in Virtualbox*
 
-<img width="300" style="margin-right: 12px;" alt="Windows successfully running" src="https://github.com/user-attachments/assets/bd8b0aef-1039-474d-b44f-460cc6fcd32c" /> 
+<img width="250" style="margin-right: 12px;" alt="Windows successfully running" src="https://github.com/user-attachments/assets/bd8b0aef-1039-474d-b44f-460cc6fcd32c" /> 
 
-<img width="200" alt="Windows OS" src="https://github.com/user-attachments/assets/37aafada-0500-4107-95b2-223bdd649b5d" /> &nbsp;
+<img width="250" alt="Windows OS" src="https://github.com/user-attachments/assets/37aafada-0500-4107-95b2-223bdd649b5d" /> &nbsp;
 
 
 **Ticket 1: Software Installation**
