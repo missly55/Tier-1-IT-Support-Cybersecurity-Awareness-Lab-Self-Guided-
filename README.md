@@ -108,7 +108,7 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 
 
 *Ref 12: Test Connectivity*
-<img width="275" alt="Active Connection" src="https://github.com/user-attachments/assets/00e6d73f-6e02-4f1a-9497-f03b7733f8bb" />
+<img width="300" alt="Active Connection" src="https://github.com/user-attachments/assets/00e6d73f-6e02-4f1a-9497-f03b7733f8bb" />
 
 
 
