@@ -38,7 +38,7 @@ Open virtualbox, select **NEW**.
 
 <img width="250" style="margin-right: 12px;" alt="Windows successfully running" src="https://github.com/user-attachments/assets/bd8b0aef-1039-474d-b44f-460cc6fcd32c" /> 
 
-<img width="250" alt="Windows OS" src="https://github.com/user-attachments/assets/37aafada-0500-4107-95b2-223bdd649b5d" /> &nbsp;&nbsp;&nbsp;
+<img width="250" alt="Windows OS" src="https://github.com/user-attachments/assets/37aafada-0500-4107-95b2-223bdd649b5d" /> 
 
 **Ticket 1: Software Installation** <br>
 
@@ -49,10 +49,9 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 3. Complete installation of the program.
 
 
-*Ref 3: Software Download*  &nbsp;
+*Ref 3: Software Download*  
 
 <img width="215" alt="Software Download" src="https://github.com/user-attachments/assets/799499e6-f74f-42dc-9c38-cdd184969e97" />
-
 
 
 *Ref 4: Installation Process* 
@@ -62,9 +61,17 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 <img width="300" alt="Installation" src="https://github.com/user-attachments/assets/25b13253-72c3-45d9-901b-101725535f4d" /> 
 
 
-
 *Ref 5: Program successfully running*
 
 <img width="400" alt="Program Successfully running" src="https://github.com/user-attachments/assets/5e244fac-0054-4841-a1da-ddaeda285469" />
 
+**Ticket 2: Password Reset**
+
+1. Go to  open **Control Panel > User Accounts > Manage Another Account**.
+2. Create users.
+
+
+*Ref 6: Navigate to Control Panel*
+
+<img width="370" alt="Navigate to Control Panel" src="https://github.com/user-attachments/assets/f593b0b2-2619-4c03-8ad0-663c188dc05e" />
 
