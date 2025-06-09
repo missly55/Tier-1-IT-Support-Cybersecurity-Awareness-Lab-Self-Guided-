@@ -65,7 +65,7 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 
 <img width="400" alt="Program Successfully running" src="https://github.com/user-attachments/assets/5e244fac-0054-4841-a1da-ddaeda285469" />
 
-**Ticket 2: Password Reset**
+**Ticket 2: Password Reset
 
 1. Go to  open **Control Panel > User Accounts > Manage Another Account**.
 2. Create users.
@@ -87,12 +87,23 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 
 <img width="261" alt="Create account" src="https://github.com/user-attachments/assets/e295fbf5-cc53-45d0-a65d-8645e9ddb057" />
 
+Ticket 3: Wi-Fi Troubleshooting
 
+1. Open **Control Panel > Network and Internet > Network and Sharing Center >** Change adapter settings.
 
+*Ref 9: Navigate to Network and Internet*
 
+<img width="392" alt="Network and Internet" src="https://github.com/user-attachments/assets/067e4f30-bc19-4910-bdfa-db73871f8099" />
 
+*Ref 10: Navigate to Network and sharing*
 
+<img width="389" alt="Network and Sharing" src="https://github.com/user-attachments/assets/6f450976-dd3c-452f-8df7-fee738adacf9" />
 
+*Ref 11: Disabling and re-enabling the network adapter*
+
+<img width="200" alt="Disable" src="https://github.com/user-attachments/assets/17130ee7-6a94-400b-b141-b555c1f0205a" />
+
+<img width="100" alt="Disabled" src="https://github.com/user-attachments/assets/67c08351-d539-423c-86f2-0c538f6de0be" />
 
 
 
