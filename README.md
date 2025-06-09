@@ -38,7 +38,7 @@ Open virtualbox, select **NEW**.
 
 <img width="250" style="margin-right: 12px;" alt="Windows successfully running" src="https://github.com/user-attachments/assets/bd8b0aef-1039-474d-b44f-460cc6fcd32c" /> 
 
-<img width="250" alt="Windows OS" src="https://github.com/user-attachments/assets/37aafada-0500-4107-95b2-223bdd649b5d" /> &nbsp;
+<img width="250" alt="Windows OS" src="https://github.com/user-attachments/assets/37aafada-0500-4107-95b2-223bdd649b5d" /> &nbsp;&nbsp;&nbsp;
 
 **Ticket 1: Software Installation** <br>
 
@@ -49,13 +49,13 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 3. Complete installation of the program.
 
 
-*Ref 3: Software Download*  <br><br>
+*Ref 3: Software Download*  &nbsp;
 
 <img width="215" alt="Software Download" src="https://github.com/user-attachments/assets/799499e6-f74f-42dc-9c38-cdd184969e97" />
 
 
 
-*Ref 4: Installation Process* <br>
+*Ref 4: Installation Process* 
 
 <img width="304" style="margin-right: 20px;" alt="Installation Process" src="https://github.com/user-attachments/assets/9196493f-ef23-4b50-96e3-b13ca16cd746" />
 
