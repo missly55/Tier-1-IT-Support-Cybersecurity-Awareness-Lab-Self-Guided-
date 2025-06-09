@@ -47,7 +47,12 @@ Ticket 1: Software Installation
 
 Objective: Simulates the download and installation of a program Chrome OS, running as Admin.
 
+1. Go to the programs website for Crome OS the site is google.com/chrome.
+2. Download the installer.
+3. Complete installation of the program.
+
 *Ref 3: Software Download*
+<img width="199" alt="Screenshot 2025-06-09 at 1 06 46 PM" src="https://github.com/user-attachments/assets/799499e6-f74f-42dc-9c38-cdd184969e97" />
 
 
 
