@@ -9,7 +9,7 @@ This lab project is designed to simulate the daily tasks of an IT Support Specia
 ### Skills Learned:
 <!--  [Bullet Points - Remove this afterwards]   -->
 
-- Learned how to diagnose and resolve basic network connection issues using tools like ipconfig, ping, and adapter settings
+- Learned how to diagnose and resolve basic network connection issues using tools like **ipconfig**, **ping**, and adapter settings.
 - Practiced resetting passwords using Command Prompt.
 - Installed common software like Zoom using "Run as Administrator" and verified successful installation.
   
