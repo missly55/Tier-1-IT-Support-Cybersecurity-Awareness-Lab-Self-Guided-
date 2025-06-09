@@ -33,15 +33,21 @@ Open virtualbox, select **NEW**.
 
 <img width="600" alt="VirtualBox" src="https://github.com/user-attachments/assets/696bf5b8-08d8-4c91-93dd-e031570cb543" />
 
+*Ref 2: Windows successfully running in Virtualbox*
+
+<img width="513" alt="Windows successfully running" src="https://github.com/user-attachments/assets/bd8b0aef-1039-474d-b44f-460cc6fcd32c" />
+
+
+Ticket 1: Software Installation
+
+Objective: Simulates the download and installation of a program Chrome OS, running as Admin.
+
+*Ref 3: Software Download*
 
 
 
 
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
+*Ref 4: Program successfully running*
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-*Ref 1: Network Diagram*
