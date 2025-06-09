@@ -11,7 +11,7 @@ This lab project is designed to simulate the daily tasks of an IT Support Specia
 
 - Learned how to diagnose and resolve basic network connection issues using tools like **ipconfig**, **ping**, and adapter settings.
 - Practiced resetting passwords using Command Prompt.
-- Installed common software like Zoom using "Run as Administrator" and verified successful installation.
+- Installed common software like Google Chrome using "Run as Administrator" and verified successful installation.
   
 
 ### Tools Used:
@@ -55,14 +55,15 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 
 <img width="215" alt="Software Download" src="https://github.com/user-attachments/assets/799499e6-f74f-42dc-9c38-cdd184969e97" />
 
+*Ref 4: Installation Process*
+
+<img width="304" alt="Installation Process" src="https://github.com/user-attachments/assets/9196493f-ef23-4b50-96e3-b13ca16cd746" />
 
 
 
 
 
 
-
-
-*Ref 4: Program successfully running*
+*Ref 5: Program successfully running*
 
 
