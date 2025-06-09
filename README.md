@@ -4,7 +4,7 @@
 ## Objective:
 <!-- [Brief Objective - Remove this afterwards]  -->
 
-This lab project is designed to simulate the daily tasks of an IT Support Specialist in a real-world environment. It provides hands-on experience with basic troubleshooting, user account management, and software installation using a Windows 10 virtual machine. The goal is to demonstrate core Tier 1 IT Support tasks in a beginner friendly way.
+This lab project is designed to simulate the daily tasks of an IT Support Specialist in a real-world environment. It provides hands-on experience with basic troubleshooting, user account management, and software installation using a Windows 10 virtual machine. The goal is to demonstrate core Tier 1 IT Support tasks through practical, real-world simulations using a virtual environment.
 
 ### Skills Learned:
 <!--  [Bullet Points - Remove this afterwards]   -->
