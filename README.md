@@ -59,7 +59,7 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 
 <img width="304" style="margin-right: 20px;" alt="Installation Process" src="https://github.com/user-attachments/assets/9196493f-ef23-4b50-96e3-b13ca16cd746" />
 
-<img width="300" alt="Installation" src="https://github.com/user-attachments/assets/25b13253-72c3-45d9-901b-101725535f4d" /> 
+<img width="300" alt="Installation" src="https://github.com/user-attachments/assets/25b13253-72c3-45d9-901b-101725535f4d" /> &nbsp;&nbsp;
 
 
 *Ref 5: Program successfully running*
