@@ -76,13 +76,16 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 <img width="300" alt="Navigate to Control Panel" src="https://github.com/user-attachments/assets/f593b0b2-2619-4c03-8ad0-663c188dc05e" />
 
 
-*Ref 6: Navigate to User Accounts*
+*Ref 7: Navigate to User Accounts*
 
 - Creating a new user.
 
   <img width="300" alt="Navigate to User accounts" src="https://github.com/user-attachments/assets/3efbef6f-0dfa-4f6d-81f9-9ad008911bb3" />
+  
 
+*Ref 8: Navigate to Manage another account*
 
+<img width="261" alt="Create account" src="https://github.com/user-attachments/assets/e295fbf5-cc53-45d0-a65d-8645e9ddb057" />
 
 
 
