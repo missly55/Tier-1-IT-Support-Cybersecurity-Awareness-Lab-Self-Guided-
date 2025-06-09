@@ -41,6 +41,7 @@ Open virtualbox, select **NEW**.
 <img width="250" alt="Windows OS" src="https://github.com/user-attachments/assets/37aafada-0500-4107-95b2-223bdd649b5d" /> &nbsp;
 
 
+
 **Ticket 1: Software Installation**
 
 Objective: Simulates the download and installation of a program Chrome OS, running as Admin.
@@ -55,11 +56,13 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 <img width="215" alt="Software Download" src="https://github.com/user-attachments/assets/799499e6-f74f-42dc-9c38-cdd184969e97" />
 
 
+
 *Ref 4: Installation Process*
 
 <img width="304" style="margin-right: 20px;" alt="Installation Process" src="https://github.com/user-attachments/assets/9196493f-ef23-4b50-96e3-b13ca16cd746" />
 
 <img width="300" alt="Installation" src="https://github.com/user-attachments/assets/25b13253-72c3-45d9-901b-101725535f4d" /> 
+
 
 
 *Ref 5: Program successfully running*
