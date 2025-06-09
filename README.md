@@ -105,8 +105,12 @@ Objective: Simulates the download and installation of a program Chrome OS, runni
 
 <img width="299" alt="Check connection" src="https://github.com/user-attachments/assets/764cc183-fcc8-45c4-b570-5ed856a5540a" />
 
+
+
 *Ref 12: Test Connectivity*
 <img width="275" alt="Active Connection" src="https://github.com/user-attachments/assets/00e6d73f-6e02-4f1a-9497-f03b7733f8bb" />
+
+
 
 *Ref 13: Route device takes to reach destination*
 
