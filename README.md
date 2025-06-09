@@ -31,7 +31,9 @@ Open virtualbox, select **NEW**.
 
 *Ref 1: Creation of virtual machine*
 
-<img width="500" alt="Virtual-Windows" src="https://github.com/user-attachments/assets/3341916e-7e24-4680-8b46-ff40cbadc935" />
+<img width="600" alt="VirtualBox" src="https://github.com/user-attachments/assets/696bf5b8-08d8-4c91-93dd-e031570cb543" />
+
+
 
 
 
